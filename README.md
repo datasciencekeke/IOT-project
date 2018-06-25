@@ -29,6 +29,7 @@ Demo影片
 https://youtu.be/625UvIt-cRo
 
 參考資料
+George講義PPT
 http://www.piddlerintheroot.com/l298n-dual-h-bridge/
 https://www.piddlerintheroot.com/project-nomad/
 https://pimylifeup.com/raspberry-pi-distance-sensor/
